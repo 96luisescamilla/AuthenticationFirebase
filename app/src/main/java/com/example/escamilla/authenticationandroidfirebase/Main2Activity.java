@@ -96,7 +96,7 @@ public class MainActivity extends FragmentActivity implements DialogFragment.Log
                         // signed in user can be handled in the listener.
                         if (!task.isSuccessful()) {
                             Log.w("camara", "signInWithEmail:failed", task.getException());
-                            Toast.makeText(MainActivity.this,"No existe prro", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(MainActivity.this,"Aun no te registras", Toast.LENGTH_SHORT).show();
                         }
 
                         // ...
