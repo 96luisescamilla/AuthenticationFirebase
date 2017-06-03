@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AuthenticationAndroidFirebase.iml" filepath="$PROJECT_DIR$/AuthenticationAndroidFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AuthenticationFirebase.iml" filepath="$PROJECT_DIR$/AuthenticationFirebase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
