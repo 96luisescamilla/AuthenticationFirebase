@@ -93,6 +93,7 @@
           "status": 2
         }
       }
+<<<<<<< HEAD
     },
     {
       "client_info": {
@@ -137,6 +138,8 @@
           "status": 2
         }
       }
+=======
+>>>>>>> d8d513770be72f3f406058f7c9c912babbd13521
     }
   ],
   "configuration_version": "1"

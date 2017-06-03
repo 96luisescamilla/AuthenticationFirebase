@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
 
+
         <activity android:name="com.example.escamilla.activity_Registro"></activity>
 
         <activity
